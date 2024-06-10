@@ -14,7 +14,7 @@
 body{
     width: 100%;
     height: 100%;
-    background: #066b7c;
+    background: #06107c;
     overflow: hidden;
 }
 
@@ -216,7 +216,7 @@ nav .menu-items {
 }
 
 .nav-links li:hover {
-    border-left: 3px solid #00aaff;
+    border-left: 3px solid #14774f;
     font-weight: bold;
     background-image: linear-gradient(to right, #181E22, #181E22, #2C383D) !important;
     background: transparent;
